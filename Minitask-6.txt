@@ -4,16 +4,14 @@ Function Diskon Dan Total Bayar
 BEGIN
    Input(Pembelian)
    If Pembelian < 500000
-	   THEN
-         Diskon <- 0 %
+	THEN
+      Diskon <- 0 %
    ElseIF Pembelian >= 500000 and pembelian <= 1000000
- 	   THEN
-         Diskon <- 5 %
+ 	THEN
+      Diskon <- 5 %
    Else 
-	   THEN
-         Diskon <- 10 % 
+      Diskon <- 10 % 
    Endif
-Total Diskon <- Total Bayar * Diskon
-Total Bayar <- Total Bayar - Total Diskon 
-
+   Total Diskon <- Total Bayar * Diskon
+   Total Bayar <- Total Bayar - Total Diskon 
 End
