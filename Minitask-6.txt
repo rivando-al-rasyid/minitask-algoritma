@@ -4,11 +4,14 @@ Function Diskon Dan Total Bayar
 BEGIN
    Input(Pembelian)
    If Pembelian < 500 ribu
-	   Diskon <- 0 %
+	   THEN
+         Diskon <- 0 %
    ElseIF Pembelian > 500 ribu and pembelian <= 1 Juta
- 	   Diskon <- 5 %
+ 	   THEN
+         Diskon <- 5 %
    Else 
-	   Diskon <- 10 % 
+	   THEN
+         Diskon <- 10 % 
    Endif
 Total Diskon <- Total Bayar * Diskon
 Total Bayar <- Total Bayar - Total Diskon 
