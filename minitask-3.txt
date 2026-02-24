@@ -1,5 +1,5 @@
 1.mulai
 2.dapatkan nilai x
-3.jika nilai x dibagi 2 apabila sisa 0, Maka bilangan x adalah bilangan genap
-4.jika nilai dibagi 2 apabila sisa 1, Maka bilangan x adalah bilangan ganjil
+3.jika nilai x dibagi 2 sisa 0, Maka bilangan x adalah bilangan genap
+4.jika nilai x dibagi 2 sisa 1, Maka bilangan x adalah bilangan ganjil
 5.selesai
