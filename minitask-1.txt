@@ -2,7 +2,7 @@
 2.gelas a berisi teh
 3.gelas b berisi kopi
 4.siapkan gelas c
-5.tuangkan teh dari gelas a ke gelas c
-6.tuangkan kopi dari gelas b ke gelas a
-7.tuangkan teh dari gelas c ke gelas b
+5.tuangkan gelas a ke gelas c
+6.tuangkan gelas b ke gelas a
+7.tuangkan gelas c ke gelas b
 8.selesai
