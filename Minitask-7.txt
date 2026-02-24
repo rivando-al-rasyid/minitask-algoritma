@@ -7,10 +7,10 @@ BEGIN
       HargaPerkWh <- 2000 
    ElseIF Pengunaan Listrik > 100  and Pengunaan Listrik <= 200 
    THEN
-       HargaPerkWh <- 3000 
+      HargaPerkWh <- 3000 
    Else 
    THEN
 	   HargaPerkWh <- 5000 
    Endif
-    Total Bayar <- HargaPerkWh * Pengunaan Listrik 
+   Total Bayar <- HargaPerkWh * Pengunaan Listrik 
 End
