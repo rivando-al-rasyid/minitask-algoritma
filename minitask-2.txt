@@ -1,10 +1,8 @@
 1.mulai
-2.dapatkan nilai π
-3.dapatkan nilai r
-4.siapkan nilai pusat
-5.siapkan nilai luas
-4.siapkan nilai keliling
-5.nilai pusat adalah π kali r
-6.luas adalah nilai pusat kali r
-7.keliling adalah 2 kali nilai pusat
+2.pi = 3.14
+3.dapatkan nilai r 
+4.siapkan nilai luas
+5.siapkan nilai keliling
+6.luas adalah phi kali r kali r
+7.keliling adalah 2 kali pi kali r
 8.selesai
