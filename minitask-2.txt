@@ -4,7 +4,7 @@
 4.siapkan nilai pusat
 5.siapkan nilai luas
 4.siapkan nilai keliling
-5. nilai pusat adalah π kali r  
+5.nilai pusat adalah π kali r
 6.luas adalah nilai pusat kali r
 7.keliling adalah 2 kali nilai pusat
 8.selesai
