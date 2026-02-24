@@ -1,0 +1,9 @@
+mulai
+1.siapkan gelas c
+2.ambil gelas a berisi teh
+3.tuangkan teh dari gelas a ke gelas c
+4.ambil gelas b berisi kopi
+5.tuangkan kopi dari gelas b ke gelas a
+6.ambil gelas c berisi teh
+7.tuangkan teh dari gelas c ke gelas b
+selesai
