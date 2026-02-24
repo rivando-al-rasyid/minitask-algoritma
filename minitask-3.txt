@@ -1,0 +1,4 @@
+1.mulai
+2.dapatkan nilai x
+3.jika nilai x % 2 = 0, Maka bilangan x = bilangan genap
+4.jika nilai x % 2 = 1, Maka bilangan x = bilangan ganjil
