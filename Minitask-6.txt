@@ -3,10 +3,10 @@ Function Diskon Dan Total Bayar
    Declare Diskon : Float
 BEGIN
    Input(Pembelian)
-   If Pembelian < 500 ribu
+   If Pembelian < 500000
 	   THEN
          Diskon <- 0 %
-   ElseIF Pembelian > 500 ribu and pembelian <= 1 Juta
+   ElseIF Pembelian >= 500000 and pembelian <= 1000000
  	   THEN
          Diskon <- 5 %
    Else 
