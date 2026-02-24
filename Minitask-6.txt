@@ -1,14 +1,16 @@
 Function Diskon Dan Total Bayar
-Declare Total Bayar,Total Diskon ,Pembelian:Num
-Declare Diskon : Float
+   Declare Total Bayar,Total Diskon ,Pembelian:Num
+   Declare Diskon : Float
 BEGIN
    Input(Pembelian)
    If Pembelian < 500 ribu
-	   Diskon = 0 %
+	   Diskon <- 0 %
    ElseIF Pembelian > 500 ribu and pembelian <= 1 Juta
- 	   Diskon = 5 %
+ 	   Diskon <- 5 %
    Else 
-	   Diskon = 10 
+	   Diskon <- 10 % 
    Endif
 Total Diskon <- Total Bayar * Diskon
 Total Bayar <- Total Bayar - Total Diskon 
+
+End

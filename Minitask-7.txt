@@ -1,0 +1,14 @@
+Function Total Bayar Pengunaan Listrik
+   Declare Total Bayar, Harga :Num
+   Declare Pengunaan Listrik : Float
+BEGIN
+   Input(Pengunaan Listrik)
+   If Pengunaan Listrik <= 100 kWh
+	   Harga <- 2000
+   ElseIF Pengunaan Listrik > 100 kWh ribu and Pengunaan Listrik <= 200 kWh
+ 	   Harga <- 3000
+   Else 
+	   Harga <- 5000
+   Endif
+Total Bayar <- Harga * Pengunaan Listrik 
+End
